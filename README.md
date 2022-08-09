@@ -1,6 +1,6 @@
 
 
-<p align="center"><img  width="900" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="akinaykut" /></p>
+<p align="center"><img  width="700" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="akinaykut" /></p>
 
 <h1 align="center">Hi 👋, I'm Akin Aykut</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
